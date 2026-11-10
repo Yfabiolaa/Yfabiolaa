@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! I'm Fabiola
 
-I'm a **Data Science student** from **Mexico** 🇲🇽, passionate about turning data into insights. I love exploring data through **visualizations** and building models that help solve real-world problems.
+I'm a **Data Science ** from **Mexico** 🇲🇽, passionate about turning data into insights. I love exploring data through **visualizations** and building models that help solve real-world problems.
 
 ### 💡 What I enjoy:
 - 📊 Creating clear and compelling **data visualizations**
